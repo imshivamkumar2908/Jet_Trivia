@@ -1,4 +1,3 @@
-// AUTHOR: - SHIVAM KUMAR
 
 package com.example.jettrivia
 
